@@ -1,6 +1,6 @@
-# Yashrif Arifin&mdash;@yashrifarifin
+# Yashrif&mdash;@yashrifarifin
 
-Hi, I'm Yashrif&mdash;a student currently studying at JU who is passionate about making dynamic web and desktop applications. I'm currently working on a few projects, but I'm always looking for new opportunities to learn and grow. Find out more about me at [yashrif.github.io/Yashrif](https://yashrif.github.io/Yashrif).
+Hi, I'm Yashrif Arifin&mdash;a student currently studying at JU who is passionate about making dynamic web and desktop applications. I'm currently working on a few projects, but I'm always looking for new opportunities to learn and grow. Find out more about me at [yashrif.github.io](https://yashrif.github.io).
 
 ## Get in touch
 
