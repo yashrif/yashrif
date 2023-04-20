@@ -1,12 +1,12 @@
 # Yashrif&mdash;@yashrifarifin
 
-Hi, I'm Yashrif Arifin&mdash;a student currently studying at JU who is passionate about making dynamic web and desktop applications. I'm currently working on a few projects, but I'm always looking for new opportunities to learn and grow. Find out more about me in my [Porfolio](https://yashrif.github.io).
+Hi, I'm Yashrif Arifin&mdash;a student currently studying at JU who is passionate about making dynamic web and native applications. I'm currently working on a few projects, but I'm always looking for new opportunities to learn and grow. To learn more about me, visit my [🌍website](https://yashrif.github.io).
 
-## Get in touch
+## Get in touch 📫
 
-- Feel free to contact me through [email](mailto:yaswoccho@gmail.com).
+- Feel free to contact me through [✉️email](mailto:yaswoccho@gmail.com).
 
-## My github stats
+## My github stats ✨
 
 <div align="center">
     <img width=396 style="margin: 0 8px" src="https://github-readme-streak-stats.herokuapp.com/?user=yashrif&theme=react&currStreakNum=FFFFFF&sideNums=FFFFFF&ring=36BCF7FF&background=0D1117&text_color=FFFFFF&icon_color=36BCF7FF&border=61dafb&hide_border=true" alt="Streak" />
