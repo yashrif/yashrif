@@ -1,6 +1,6 @@
 # Yashrif&mdash;@yashrifarifin
 
-Hi, I'm Yashrif Arifin&mdash;a a computer enthusiast who is passionate about making dynamic website and application software. I'm currently working on a few projects, but I'm always looking for new opportunities to learn and grow. To learn more about me, visit my [🌍website](https://yashrif.github.io).
+Hi, I'm Yashrif Arifin&mdash;a computer enthusiast who is passionate about making dynamic website and application software. I'm currently working on a few projects, but I'm always looking for new opportunities to learn and grow. To learn more about me, visit my [🌍website](https://yashrif.github.io).
 
 ## Get in touch 📫
 
