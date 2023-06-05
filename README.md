@@ -1,17 +1,13 @@
 # Yashrif&mdash;@yashrifarifin
 
-Hi, I'm Yashrif Arifin&mdash;a student currently studying at JU who is passionate about making dynamic web and native applications. I'm currently working on a few projects, but I'm always looking for new opportunities to learn and grow. To learn more about me, visit my [🌍website](https://yashrif.github.io).
+Hi, I'm Yashrif Arifin&mdash;a student currently studying at JU who is passionate about making dynamic website and application software. I'm currently working on a few projects, but I'm always looking for new opportunities to learn and grow. To learn more about me, visit my [🌍website](https://yashrif.github.io).
 
 ## Get in touch 📫
-
-<div align="center">
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yaswoccho@gmail.com)
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yashrif)
 [![Linkedin](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/Yashrif#4159)
 [![Linkedin](https://img.shields.io/badge/Steam-1b2838?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561198175046383)
-
-</div>
 
 ## My github stats ✨
 
