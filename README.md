@@ -4,11 +4,18 @@ Hi, I'm Yashrif Arifin&mdash;a student currently studying at JU who is passionat
 
 ## Get in touch 📫
 
-- Feel free to contact me through [✉️email](mailto:yaswoccho@gmail.com).
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yaswoccho@gmail.com)
+[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yashrif)
+[![Linkedin](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/Yashrif#4159)
+[![Linkedin](https://img.shields.io/badge/Steam-1b2838?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561198175046383)
+
+</div>
 
 ## My github stats ✨
 
 <div align="center">
     <img width=396 style="margin: 0 8px" src="https://github-readme-streak-stats.herokuapp.com/?user=yashrif&theme=react&currStreakNum=FFFFFF&sideNums=FFFFFF&ring=36BCF7FF&background=0D1117&text_color=FFFFFF&icon_color=36BCF7FF&border=61dafb&hide_border=true" alt="Streak" />
-    <img width=396 style="margin: 0 8px" src="https://github-readme-stats-mu-jet.vercel.app/api?username=yashrif&show_icons=true&theme=react&title_color=36BCF7FF&currStreakLabel=36BCF7FF&sideLabels=36BCF7FF&icon_color=36BCF7FF&bg_color=0D1117&text_color=FFFFFF&border_color=61dafb&hide_border=true&count_private=true" alt="Stats"/>
+    <img width=396 style="margin: 0 8px" src="https://github-readme-stats.vercel.app/api?username=yashrif&show_icons=true&theme=react&title_color=36BCF7FF&currStreakLabel=36BCF7FF&sideLabels=36BCF7FF&icon_color=36BCF7FF&bg_color=0D1117&text_color=FFFFFF&border_color=61dafb&hide_border=true&count_private=true&rank_icon=github" alt="Stats"/>
 </div>
