@@ -13,5 +13,5 @@ Hi, I'm Yashrif Arifin&mdash;a a computer enthusiast who is passionate about mak
 
 <div align="center">
     <img width=396 style="margin: 0 8px" src="https://github-readme-streak-stats.herokuapp.com/?user=yashrif&theme=react&currStreakNum=FFFFFF&sideNums=FFFFFF&ring=36BCF7FF&background=0D1117&text_color=FFFFFF&icon_color=36BCF7FF&border=61dafb&hide_border=true" alt="Streak" />
-    <img width=396 style="margin: 0 8px" src="https://github-readme-stats.vercel.app/api?username=yashrif&show_icons=true&theme=react&title_color=36BCF7FF&currStreakLabel=36BCF7FF&sideLabels=36BCF7FF&icon_color=36BCF7FF&bg_color=0D1117&text_color=FFFFFF&border_color=61dafb&hide_border=true&count_private=true&rank_icon=github" alt="Stats"/>
+    <img width=396 style="margin: 0 8px" src="https://github-readme-stats.vercel.app/api?username=yashrif&show_icons=true&theme=react&title_color=36BCF7FF&currStreakLabel=36BCF7FF&sideLabels=36BCF7FF&icon_color=36BCF7FF&bg_color=0D1117&text_color=FFFFFF&border_color=61dafb&hide_border=true&count_private=true&rank_icon=github&hide=issues" alt="Stats"/>
 </div>
