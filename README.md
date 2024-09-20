@@ -13,5 +13,5 @@ Hi, I'm Yashrif Arifin&mdash;a computer enthusiast who is passionate about makin
 
 <div align="center">
     <img width=396 style="margin: 0 8px" src="https://github-readme-streak-stats.herokuapp.com?user=yashrif&theme=tokyonight-duo&hide_border=true&mode=weekly" alt="Streak" />
-    <img width=396 style="margin: 0 8px" src="https://github-readme-stats.vercel.app/api?username=yashrif&theme=tokyonight&show_icons=true&hide_border=true&bg_color=FFFFFF00" alt="Stats"/>
+    <img width=396 style="margin: 0 8px" src="https://github-readme-stats.vercel.app/api?username=yashrif&theme=tokyonight&show_icons=true&hide_border=true&bg_color=FFFFFF00&count_private=true&rank_icon=github&hide=issues" alt="Stats"/>
 </div>
