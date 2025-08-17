@@ -27,14 +27,14 @@
 
 <p align="center">
     <a href="https://github.com/yashrif">
-        <img alt="Profile Summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashrif&theme=transparent&hide_border=true" width="49%" />
+        <img alt="Profile Summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashrif&theme=transparent&hide_border=true" width="59%" />
     </a>
-    <img alt="Streak" src="https://github-readme-streak-stats.herokuapp.com?user=yashrif&theme=transparent&hide_border=true&mode=weekly" width="49%" />
+    <img alt="Streak" src="https://github-readme-streak-stats.herokuapp.com?user=yashrif&theme=transparent&hide_border=true&mode=weekly" width="39%" />
 </p>
 
 <p align="center">
-    <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=yashrif&theme=transparent&show_icons=true&hide_border=true&bg_color=00000000&count_private=true&rank_icon=github&hide=issues" width="49%" />
-    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashrif&layout=compact&theme=transparent&hide_border=true&bg_color=00000000" width="49%" />
+    <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=yashrif&theme=transparent&show_icons=true&hide_border=true&bg_color=00000000&count_private=true&rank_icon=github&hide=issues" width="59%" />
+    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashrif&layout=compact&theme=transparent&hide_border=true&bg_color=00000000" width="39%" />
 </p>
 
 ---
